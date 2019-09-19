@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/8FW/Jars Or Dependencies/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/8FW/Jars Or Dependencies/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/8FW/Jars Or Dependencies/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/8FW/Jars Or Dependencies/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
